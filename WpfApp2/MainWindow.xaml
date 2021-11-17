@@ -33,5 +33,6 @@
         <Button x:Name="CalcWeight" Height="43" Width="120" Background="Green" Foreground="White" Content="Расчет итг.веса" Canvas.Left="10" Canvas.Top="367" Click="btnCalc_Click"/>
 
         <Label Name="Weight"  Foreground="Green"  FontSize="25" Content="0.00" Canvas.Left="255" Canvas.Top="376" RenderTransformOrigin="-0.525,0.509" Height="52" Width="94"/>
+        <Label Name ="CodeProsto"/>
     </Canvas>
 </Window>
